@@ -1,6 +1,7 @@
 name: EquesMedia
 favicon: null
 layout_spectrum: 0
+typography_spectrum: 0.15948
 cta:
   domain: null
   bucket: null
