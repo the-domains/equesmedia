@@ -1,6 +1,7 @@
 name: EquesMedia
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0
+typography_spectrum: 0.15948
 cta:
   domain: null
   bucket: null
@@ -14,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#666666'
+    - '#dc2a25'
+    - '#101010'
+    - '#ffffff'
+    - '#9c9c9c'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
