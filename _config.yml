@@ -1,18 +1,4 @@
-name: EquesMedia
-favicon: null
-layout_spectrum: 0.8
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.5
 color:
   brandColors:
     - '#666666'
@@ -24,7 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: sign-ups
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: EquesMedia
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: EquesMedia
+purpose: []
